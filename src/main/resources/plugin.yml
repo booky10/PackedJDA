@@ -1,0 +1,6 @@
+name: PackedJDA
+version: @version@
+main: tk.booky.packedjda.BukkitMain
+load: STARTUP
+authors: [ booky10 ]
+website: https://booky.tk/
