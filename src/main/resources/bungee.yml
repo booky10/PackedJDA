@@ -1,0 +1,5 @@
+name: PackedJDA
+version: @version@
+main: tk.booky.packedjda.BungeeMain
+authors: [ booky10 ]
+website: https://booky.tk/
